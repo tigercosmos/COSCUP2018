@@ -1,5 +1,7 @@
 # COSCUP 2018
 
+講者：劉安齊
+
 第一場
 
 * Topic: Let's build a weather bot
